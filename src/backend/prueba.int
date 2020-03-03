@@ -1,0 +1,5 @@
+ROUTINE prueba [Type=INT]
+
+TEST
+    U 0 W "HOLA",!
+    Q
